@@ -19,7 +19,7 @@ You can access a live demo of this portfolio project at [https://www.yourportfol
 ## Features
 
 - **Home Page**: An introduction to me and my background.
-- **Education & Experience**: About my journy of Education and Experience. 
+- **Education & Experience**: About my journy of Education and Experience.
 -**Skills**: A list of my technical skills and expertise.
 - **Projects**: A showcase of my recent web development projects.
 - **Responsive Design**: The portfolio is fully responsive for various screen sizes.
@@ -27,15 +27,8 @@ You can access a live demo of this portfolio project at [https://www.yourportfol
 ## Technologies
 
 - React
-- JavaScript
+
 - HTML
 - CSS
 
-## Installation
 
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   [git clone https://github.com/MarahHab/React_Portfolio]
