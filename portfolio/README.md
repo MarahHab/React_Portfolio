@@ -19,18 +19,17 @@ You can access a live demo of this portfolio project at [https://www.yourportfol
 ## Features
 
 - **Home Page**: An introduction to me and my background.
+- **Education & Experience**: About my journy of Education and Experience. 
+-**Skills**: A list of my technical skills and expertise.
 - **Projects**: A showcase of my recent web development projects.
-- **Skills**: A list of my technical skills and expertise.
-- **Contact**: How to reach out to me.
 - **Responsive Design**: The portfolio is fully responsive for various screen sizes.
 
 ## Technologies
 
 - React
 - JavaScript
-- HTML5
-- CSS3
-- [Additional libraries or tools used]
+- HTML
+- CSS
 
 ## Installation
 
