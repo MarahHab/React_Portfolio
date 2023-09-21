@@ -26,61 +26,51 @@ const Skills = () => {
         <article className="about__card">
           <IoLogoJavascript className="about__icon" />
           <h5>JavaScript</h5>
-          <small>+15 Skils</small>
         </article>
 
         <article className="about__card">
           <BiLogoJava className="about__icon" />
           <h5>Java</h5>
-          <small> 10 Projects</small>
         </article>
 
         <article className="about__card">
           <SiSpring className="about__icon" />
           <h5>Spring Boot</h5>
-          <small> 10 Projects</small>
         </article>
 
         <article className="about__card">
           <AiOutlineHtml5 className="about__icon" />
           <h5>Html</h5>
-          <small> 10 Projects</small>
         </article>
 
         <article className="about__card">
           <FaCss3Alt className="about__icon" />
           <h5>CSS</h5>
-          <small> 10 Projects</small>
         </article>
 
         <article className="about__card">
           <FaReact className="about__icon" />
           <h5>React</h5>
-          <small> 10 Projects</small>
         </article>
 
         <article className="about__card">
           <FaNodeJs className="about__icon" />
           <h5>Node js</h5>
-          <small> 10 Projects</small>
         </article>
 
         <article className="about__card">
           <SiMicrosoftsqlserver className="about__icon" />
           <h5>SQL/MySQL/NoSQL</h5>
-          <small> 10 Projects</small>
         </article>
 
         <article className="about__card">
           <SiMongodb className="about__icon" />
           <h5>MongoDB</h5>
-          <small> 10 Projects</small>
         </article>
 
         <article className="about__card">
           <PiCodeSimpleBold className="about__icon" />
           <h5>OOP & Design Pattern</h5>
-          <small> 10 Projects</small>
         </article>
       </div>
     </section>
