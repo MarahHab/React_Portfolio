@@ -7,10 +7,6 @@ Welcome to my React Portfolio project! This portfolio showcases my skills, proje
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
