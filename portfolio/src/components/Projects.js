@@ -9,7 +9,7 @@ const data = [
     id: 1,
     image: vehicleDetection,
     title: "Object Detection Web ",
-    github: "https://github.com/celinekaram99/Vehicle_Detection",
+    github: "https://github.com/MarahHab/Vehicle_Detection.git",
     demo: "https://finalproject-667eb.web.app/",
     info: " vehicle detection web application combines the power of deep learning models like YOLOv5 and SSD with a user-friendly web interface developed using Python, HTML, CSS, and Bootstrap. ",
   },
