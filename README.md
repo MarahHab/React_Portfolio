@@ -4,7 +4,7 @@ This is my personal portfolio website built using React. It showcases my skills,
 
 ## Features
 
-📌  Display an overview ofmyself and my skills. \
+📌  Display an overview of myself and my skills. \
 📌 Showcase my projects with descriptions and links. \
 📌 Contact information and links to your social profiles.\
 📌 Responsive design for various devices.\
