@@ -1,8 +1,8 @@
-##  Portfolio React Project
+## 🏳️ Portfolio React Project
 
 This is my personal portfolio website built using React. It showcases my skills, projects, and provides a brief introduction to who I am as a developer.
 
-##  ✔️ Features
+##  〰️ Features
 
 ✨ Here are some of the key features of my portfolio:
 
@@ -13,11 +13,11 @@ This is my personal portfolio website built using React. It showcases my skills,
 - 🚀 **Projects:** Showcasing a selection of my projects, complete with descriptions, images, and links.
 - 🌐 **Responsive:** The portfolio is designed to work seamlessly on various devices and screen sizes.
 
-## ✔️ Live Portfolio
+## 〰️ Live Portfolio
 
 🌐 You can explore my portfolio live [here](https://your-portfolio-link).
 
-## ✔️ Installation
+## 〰️ Installation
 
 **1. Clone the repository:**
 
@@ -38,11 +38,11 @@ npm install
 npm start
 ```
 
-## ✔️ Built With
-- **React** - A JavaScript library for building user interfaces.
-- **React-Icons** - A comprehensive set of icons for React applications.
-- **React Router** - For routing within the application.
-- **styled-components** - For styling components with CSS-in-JS.
+## 〰️ Built With
+✔️ **React** - A JavaScript library for building user interfaces.\
+✔️ **React-Icons** - A comprehensive set of icons for React applications. \
+✔️ **React Router** - For routing within the application. \
+✔️ **styled-components** - For styling components with CSS-in-JS.
 
-## ✔️ Contact
+## 〰️ Contact
 📧 If you have any questions or would like to connect, you can reach me at: ** marah.hab2@gmail.com**.
