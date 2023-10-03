@@ -1,4 +1,4 @@
-## 🏳️ Portfolio React Project
+## 🏳️Portfolio React Project
 
 This is my personal portfolio website built using React. It showcases my skills, projects, and provides a brief introduction to who I am as a developer.
 
